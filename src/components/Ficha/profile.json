@@ -1,0 +1,12 @@
+{
+    "experience": "pro",
+    "img": "https://pbs.twimg.com/profile_images/949787136030539782/LnRrYf6e_400x400.jpg",
+    "name": "Ricky Park",
+    "city": "New York",
+    "bio": "User interface designer and front-end developer",
+    "buttons": {
+        "messageButton" : "Message",
+        "followButton" : "Following"
+    },
+    "skills": ["UI/UX", "Front End Development", "HTML", "CSS", "JavaScript", "React", "Node"]
+}
